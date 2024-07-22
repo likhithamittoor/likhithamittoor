@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Likhitha Mittoor
 
-🚀 Software Engineer | 🌱 Data Science Enthusiast | 🎓 MSc Student @ University of Liverpool
+🚀 Software Engineer | Python Developer | 🌱 Data Science Enthusiast | 🎓 MSc Student @ University of Liverpool
 
 💻 Crafting elegant solutions with Python, AWS, and Machine Learning
 🔭 Currently forecasting stock markets with time series analysis
